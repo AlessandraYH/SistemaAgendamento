@@ -1,3 +1,3 @@
-Ainda não possuo conhecimento para java EE e ligação entre banco de dados, tentei várias formas e pesquisa.
+Ainda nÃ£o possuo conhecimento para java EE e ligaÃ§Ã£o entre banco de dados, tentei vÃ¡rias formas e pesquisa.
 
-Sou inexperiente no linguagem programação requisitada, mas no caso tenho interesse em aprender.
+Sou inexperiente no linguagem programaÃ§Ã£o requisitada, mas tenho interesse em aprender o que for necessÃ¡rio.
